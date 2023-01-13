@@ -1,2 +1,2 @@
-# CRM-crud-with-Rest-and-Asyn-Await
+# CRM crud with Rest and Asyn-Await in <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 A CRM with CRUD operations that fill and use an API created in JSON server, the program also uses modules, async await, and validations
